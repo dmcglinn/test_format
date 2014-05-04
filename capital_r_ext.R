@@ -6,4 +6,10 @@ my_function = function(x) {
     return(x)
 }
 
+## my comments
+print('some strings')
+
+## more comments
+
+print('some strings')
 
